@@ -1,0 +1,77 @@
+h1 {
+  text-decoration-color: black;
+  text-align-last: center;
+  font-style: italic;
+}
+p {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 5px solid rgba(43, 5, 131, 0.829);
+  font-size: x-large;
+}
+table {
+  margin: auto;
+}
+body {
+  background-image: url(compute-ea4c57a4.jpg);
+}
+th {
+  color: red;
+  font-style: italic;
+}
+a {
+  text-align: center;
+  color: firebrick;
+  font-size: x-large;
+}
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #382244;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 25px 25px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgb(169, 120, 214);
+  color: rgb(0, 0, 0);
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+  background-color: #2196f3;
+  color: rgb(255, 255, 255);
+}
+.topnav a.active:hover {
+  background-color: #3b3175;
+  color: rgb(255, 255, 255);
+}
+/* Style the search box inside the navigation bar */
+.topnav input[type="text"] {
+  float: right;
+  padding: 18px;
+  border: rgb(red, green, blue);
+  margin-top: 8px;
+  margin-right: 1px;
+  font-size: 17px;
+}
+i{
+  text-align: center;
+  color: chartreuse;
+  font-size: x-large;
+}
